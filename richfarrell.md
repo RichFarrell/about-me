@@ -1,2 +1,4 @@
 My name is Rich Farrell
 I am an MTS working in the Marketing Cloud.
+
+I come from a primarily testing role, moving into a hybrid developer role. I want to level-up my git-fu.
