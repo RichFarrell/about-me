@@ -6,3 +6,8 @@ I come from a primarily testing role, moving into a hybrid developer role. I wan
 I am now editing my md file.
 
 My favorate colour is blue.
+
+
+
+
+Copyright 2020 Rich Farrell Enterprises
